@@ -1,4 +1,4 @@
-# Temperatur_Converter_Rust
+# Temperatur Converter Rust
 A celsius to fahrenheit and vice versa converter
 
 1. To get an executable you need to have a Rust 2018 compiler 
